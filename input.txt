@@ -1,0 +1,7 @@
+Dylan Kral M 1 21 1234
+Amie Orellana F 0 21 4567
+Brandon Fraser M 1 23 7583
+Michael lindstrom M 1 54 7382
+John Basse M 1 56 1624
+Abraham Lincoln M 0 46 8172
+George Wahsington M 1 76 8374
